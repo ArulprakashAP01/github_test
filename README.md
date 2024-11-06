@@ -3,7 +3,7 @@
 
 ```bash
 
-git clone https://github.com/Arulprakash111/arulthehunter.git
+git clone https://github.com/Arulprakash01/arul_the_hunter
 
 cd arulthehunter
 
