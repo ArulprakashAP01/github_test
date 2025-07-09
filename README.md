@@ -2,7 +2,7 @@ dggd
 # INSTALLATION
 
 ```bash
-
+hgh
 git clone https://github.com/Arulprakash01/arul_the_hunter.git
 
 cd arulthehunter
