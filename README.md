@@ -8,6 +8,7 @@ git clone https://github.com/Arulprakash01/arul_the_hunter.git
 cd arulthehunter
 
 pip3 install -r requirements.txt
+hgghfh
 
 sudo python3 install.py
 
