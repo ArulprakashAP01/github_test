@@ -4,7 +4,7 @@ dggd
 ```bash
 hgh
 git clone https://github.com/Arulprakash01/arul_the_hunter.git
-
+hgh
 cd arulthehunter
 
 pip3 install -r requirements.txt
