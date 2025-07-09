@@ -125,4 +125,4 @@ python3 arulthehunter.py -co domains.txt
 Host Header Injection
 ```
 python3 arulthehunter.py -hh domains.txt
-
+hd
